@@ -1,5 +1,4 @@
 import React from 'react';
-
 import { Container, FileInfo } from './styles';
 
 interface FileProps {
